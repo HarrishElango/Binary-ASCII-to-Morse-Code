@@ -1,7 +1,7 @@
 # Binary-ASCII-to-Morse-Code
 
 ## Description
-SystemVerilog code for DE-10 Lite FPGA that converts binary values of switches into corresponding letter using ASCII. Letter is then displayed using hex displays, and played using LED and buzzer.
+SystemVerilog code for DE-10 Lite FPGA that converts the binary value of mutliple switches using ASCII into the corresponding letter. Letter is then displayed using hex displays, and played using LED and buzzer if a button is pressed.
 
 ## Dependencies
 This program requires an DE-10 Lite board, and the Quartus Prime application to set pins to the corresponding inputs and outputs. 
